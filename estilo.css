@@ -1,0 +1,79 @@
+body {
+    background-color: lavender;
+}
+
+h1 { 
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    color: purple;  
+}
+
+ p {  
+    font-size: large;
+/*Fonte maior para melhor visualização */
+}
+
+.mensagem {
+    margin-top: 10px;
+    font-size: 18px;
+    color: blueviolet;
+    font-family: Arial;
+}
+
+li {margin-bottom: 10px;}
+
+.jogar {
+        border-radius: 20px;
+        border: 3px solid black;
+        width: 85%;
+        height: 500px;
+        object-fit: cover;
+        display: block;
+        margin-left: 20px;
+ }
+
+a.site {color:blue;
+        font-size: larger;
+        margin-left: 45%;
+}
+a.site:hover{
+        color: red;
+ }          
+
+.japao {width:380px;
+        margin-left:35%;
+        }
+
+.suica {width:380px;
+        margin-left:35%;
+        }
+
+.islandia {width:380px;
+           margin-left:35%;
+        }
+
+table { border: 2px solid black;
+        border-collapse: collapse;
+        background-color: #a56db3;
+        width: 80%;
+        padding: 20px;
+        margin-left: 10%;
+       
+        }
+
+tr, td {color: black;
+        border: 3px solid black;
+        padding: 5%;
+        font-size: large;
+        }
+
+caption {font-size: x-large;
+         text-align: center;
+         margin-top: 10px;
+         margin-bottom: 10px;
+           }
+
+        
